@@ -5,4 +5,4 @@ Reverse engineering showbox and the com.tdo.showbox apk
 
 #C2999a.java has a lot of links for it's api
 
-**I got as many files as i could into the souce**
+**I got as many files as i could into the souce, though it is not everything**
